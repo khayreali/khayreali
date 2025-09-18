@@ -18,7 +18,7 @@
   #### [Vision Transformer for Product Categorization](https://github.com/khayreali/ecommerce-product-classifier)
   `Python`, `PyTorch`, `BeautifulSoup`, `Transformers`, `Scikit-learn`
   
-  Product categorization pipeline using Vision Transformer fine-tuning on 12,500+ scraped Amazon images, optimized through parameter freezing techniques.
+  Product categorization pipeline using Vision Transformer fine-tuning on 12,500+ scraped e-commerce images, optimized through parameter freezing techniques.
   
 </td>
 </tr>
