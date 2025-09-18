@@ -26,7 +26,7 @@
 <tr>
 <td width="200">
 
-<!-- ![NEURIPS Demo](categories.png) -->
+![NEURIPS cover](neurips_cover.png)
 
 </td>
 <td>
