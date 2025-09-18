@@ -2,7 +2,7 @@
 
 **MS Computer Science @ Northeastern University |
 
-💼 [LinkedIn](https://linkedin.com/in/khayreali/) | 🔗 [GitHub](https://github.com/khayreali)
+[LinkedIn](https://linkedin.com/in/khayreali/) | [GitHub](https://github.com/khayreali)
 
 ---
 
