@@ -31,7 +31,7 @@
 </td>
 <td>
 
-  #### [NeurIPS 2025 - Open Polymer Prediction](https://github.com/khayreali/content-guard)
+  #### [NeurIPS 2025 - Open Polymer Prediction](https://github.com/khayreali/neurips_open_polymer_prediction_2025)
   `Python` `PyTorch` `XGBoost` `Scikit-learn` `Pandas` `NumPy`
   
   fdsads
