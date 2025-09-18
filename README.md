@@ -32,9 +32,9 @@
 <td>
 
   #### [NeurIPS 2025 - Open Polymer Prediction](https://github.com/khayreali/neurips_open_polymer_prediction_2025)
-  `Python` `PyTorch` `XGBoost` `Scikit-learn` `Pandas` `NumPy`
+  `Python` `PyTorch` `XGBoost` `Scikit-learn` `RDKit` `PyTorch Geometric` `Mordred` `Graph Neural Networks`
   
-  fdsads
+  Hybrid ML pipeline combining tree-based models with Graph Neural Networks to predict 5 polymer physical properties from SMILES representations, achieving top 13% NeurIPS competition ranking.
   
 </td>
 </tr>
