@@ -9,7 +9,7 @@
 ## Projects
 
 ### Vision Transformer for Product Categorization
-![ViT Demo](./assets/vit-demo.gif
+![ViT Demo](vit-demo.gif)
 
 Scalable product categorization pipeline using Vision Transformer fine-tuning on 12,500+ scraped Amazon images, optimized through parameter freezing techniques.
 
