@@ -1,6 +1,6 @@
 # Khayre Ali
 
-** MS Computer Science @ Northeastern University |
+** MS Computer Science @ Northeastern University **
 
 [LinkedIn](https://linkedin.com/in/khayreali/) | [GitHub](https://github.com/khayreali)
 
