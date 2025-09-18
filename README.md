@@ -21,7 +21,7 @@
 
 **Keywords:** *Python, PyTorch, BeautifulSoup, Transformers, Scikit-learn*
 
-- Scalable product categorization pipeline using Vision Transformer fine-tuning on 12,500+ scraped Amazon images, optimized through parameter freezing techniques.
+Product categorization pipeline using Vision Transformer fine-tuning on 12,500+ scraped Amazon images, optimized through parameter freezing techniques.
 
 </td>
 </tr>
