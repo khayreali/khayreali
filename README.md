@@ -14,7 +14,6 @@
 
 </td>
 <td>
-
   #### [Vision Transformer for E-commerce Product Categorization](https://github.com/khayreali/ecommerce-product-classifier)
   `Python`, `PyTorch`, `BeautifulSoup`, `Transformers`, `Scikit-learn`
   
