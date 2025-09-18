@@ -44,7 +44,7 @@
 <tr>
 <td width="200">
 
-<!-- ![Safety Demo](contentguard_demo.gif) -->
+![Safety Demo](contentguard_demo.gif)
 
 </td>
 <td>
