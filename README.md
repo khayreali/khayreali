@@ -16,7 +16,7 @@
 <td>
 
   #### Vision Transformer for Product Categorization
-  **Skills:** `Python`, `PyTorch`, `BeautifulSoup`, `Transformers`, `Scikit-learn`
+  `Python`, `PyTorch`, `BeautifulSoup`, `Transformers`, `Scikit-learn`
   
   Product categorization pipeline using Vision Transformer fine-tuning on 12,500+ scraped Amazon images, optimized through parameter freezing techniques.
   
@@ -32,7 +32,7 @@
 <td>
 
   #### NeurIPS 2025 - Open Polymer Prediction
-  **Skills:** `Python` `PyTorch` `XGBoost` `Scikit-learn` `Pandas` `NumPy`
+  `Python` `PyTorch` `XGBoost` `Scikit-learn` `Pandas` `NumPy`
   
   fdsads
   
@@ -50,7 +50,7 @@
 <td>
 
   ### 🛡️ Multi-Modal Content Safety Classifier
-  **Skills:** `Python` `PyTorch` `Transformers` `LLaVA` `CLIP` `Streamlit`
+  `Python` `PyTorch` `Transformers` `LLaVA` `CLIP` `Streamlit`
   
   fdsads
   
