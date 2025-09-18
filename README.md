@@ -10,7 +10,7 @@
 <tr>
 <td width="200">
 
-![ViT Demo](categories.png)
+![ViT Demo](e-commerce_demo.png)
 
 </td>
 <td>
