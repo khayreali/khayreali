@@ -16,7 +16,7 @@
 ---
 
 ### NeurIPS 2025 - Open Polymer Prediction
-![Polymer Demo](./assets/polymer-demo.gif) -->
+![Polymer Demo](./assets/polymer-demo.gif)
 
 **Skills:** `Python` `PyTorch` `XGBoost` `Scikit-learn` `Pandas` `NumPy`
 
