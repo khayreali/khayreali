@@ -41,7 +41,7 @@
 
 
 <tr>
-<td width="300">
+<td width="200">
 
 ![Safety Demo](contentguard_demo.gif)
 
