@@ -18,7 +18,8 @@
 <td>
 
   #### Vision Transformer for Product Categorization
-  **Skills:** *Python, PyTorch, BeautifulSoup, Transformers, Scikit-learn*\n
+  **Skills:** *Python, PyTorch, BeautifulSoup, Transformers, Scikit-learn*
+  
   Product categorization pipeline using Vision Transformer fine-tuning on 12,500+ scraped Amazon images, optimized through parameter freezing techniques.
   
 </td>
