@@ -9,17 +9,24 @@
 ## Projects
 
 <table>
-  <tr> 
-    <td width="300">
-      ![ViT Demo](categories.png)  
-    </td> 
-    <td>
-            ### Vision Transformer for Product Categorization
-  Scalable product categorization pipeline using Vision Transformer fine-tuning on 12,500+ scraped Amazon images, optimized through parameter freezing techniques.
-  **Skills:** `Python` `Pytorch` `BeautifulSoup` `Transformers` `Scikit-learn`
-    </td> 
-    </tr>
-    <tr></table>
+<tr>
+<td width="300">
+
+![ViT Demo](categories.png)
+
+</td>
+<td>
+
+### Vision Transformer for Product Categorization
+
+**Keywords:** *Python, PyTorch, BeautifulSoup, Transformers, Scikit-learn*
+
+- Scalable product categorization pipeline using Vision Transformer fine-tuning on 12,500+ scraped Amazon images, optimized through parameter freezing techniques.
+
+</td>
+</tr>
+</table>
+
 ---
 
 ### NeurIPS 2025 - Open Polymer Prediction
