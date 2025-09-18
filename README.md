@@ -50,9 +50,9 @@
 <td>
 
   #### [Multi-Modal Content Safety Classifier](https://github.com/khayreali/content-guard)
-  `Python` `PyTorch` `Transformers` `LLaVA` `CLIP` `Streamlit`
+  `Python` `PyTorch` `Transformers` `BERT` `BART` `CLIP` `LLaVA` `EasyOCR` `Streamlit`
   
-  fdsads
+  Multi-modal content safety system using 6 ML models (BERT, CLIP, LLaVA) to detect harmful content in text/images with real-time chain-of-thought reasoning.
   
 </td>
 </tr>
