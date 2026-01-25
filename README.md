@@ -8,13 +8,29 @@
 <tr>
 <td width="200">
 
+![GamePatch Demo](gamepatch_demo.jpg)
+
+</td>
+<td>
+  
+  #### [Game Patch Distribution Service](https://github.com/khayreali/GamePatchService)
+  `C#` `.NET 8` `ASP.NET Core` `PostgreSQL` `Entity Framework` `Docker`
+  
+  REST API that calculates optimal game update paths using Dijkstra's algorithm. Finds the smallest total download size when multiple patch routes exist between versions.
+  
+</td>
+</tr>
+
+<tr>
+<td width="200">
+
 ![ViT Demo](e-commerce_demo.png)
 
 </td>
 <td>
   
   #### [Vision Transformer for E-commerce Product Categorization](https://github.com/khayreali/ecommerce-product-classifier)
-  `Python`, `PyTorch`, `BeautifulSoup`, `Transformers`, `Scikit-learn`
+  `Python` `PyTorch` `BeautifulSoup` `Transformers` `Scikit-learn`
   
   Product categorization pipeline using Vision Transformer fine-tuning on 12,500+ scraped e-commerce images, optimized through parameter freezing techniques.
   
@@ -36,8 +52,6 @@
   
 </td>
 </tr>
-
-
 
 <tr>
 <td width="200">
